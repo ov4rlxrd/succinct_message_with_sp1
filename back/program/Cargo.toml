@@ -1,0 +1,9 @@
+[package]
+version = "0.1.0"
+name = "Message_to_Succinct"
+edition = "2021"
+
+[dependencies]
+alloy-sol-types = { workspace = true }
+sp1-zkvm = "4.0.0"
+sha2 = "0.10"
